@@ -9,7 +9,7 @@
 </div>
 
 
-### :memo: Descrição
+### :memo: Módulos
 
 #### Introdução
 - [x] Introdução
