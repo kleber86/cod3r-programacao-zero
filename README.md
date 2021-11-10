@@ -27,16 +27,32 @@
 - [x] Terminal
 
 #### Configurando o Computador
-- [ ] Ambiente Javascript #01
-- [ ] Ambiente Javascript #02
-- [ ] Ambiente Javascript #03
-- [ ] WINDOWS - Instalando o NodeJS
-- [ ] WINDOWS - Executando Código com o NodeJS
-- [ ] WINDOWS - Instalando o Visual Studio Code
-- [ ] Criando o Projeto
-- [ ] Executando Código Javascript #01
-- [ ] Executando Código Javascript #02
+- [x] Ambiente Javascript #01
+- [x] Ambiente Javascript #02
+- [x] Ambiente Javascript #03
+- [x] WINDOWS - Instalando o NodeJS
+- [x] WINDOWS - Executando Código com o NodeJS
+- [x] WINDOWS - Instalando o Visual Studio Code
+- [x] Criando o Projeto
+- [x] Executando Código Javascript #01
+- [x] Executando Código Javascript #02
 
+#### Iniciando com Programação
+- [x] Conhecendo o Visual Studio Code
+- [x] Sentença de Código #01
+- [x] Sentença de Código #02
+- [x] Comentários de Código
+- [ ] Bloco de Código
+- [ ] Desafio Sentença e Bloco
+- [ ] Desafio Sentença e Bloco - Resposta
+- [ ] Trabalhando com Dados #01
+- [ ] Trabalhando com Dados #02
+- [ ] Trabalhando com Dados #03
+- [ ] Trabalhando com Dados #04
+- [ ] Desafio Área da Circunferência
+- [ ] Desafio Área da Circunferência - Resposta
+- [ ] Desafio Troca de Valores
+- [ ] Desafio Troca de Valores - Resposta
 
 ### :hammer: Tecnologias
 <ul>
