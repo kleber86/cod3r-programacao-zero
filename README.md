@@ -42,20 +42,58 @@
 - [x] Sentença de Código #01
 - [x] Sentença de Código #02
 - [x] Comentários de Código
-- [ ] Bloco de Código
-- [ ] Desafio Sentença e Bloco
-- [ ] Desafio Sentença e Bloco - Resposta
-- [ ] Trabalhando com Dados #01
-- [ ] Trabalhando com Dados #02
-- [ ] Trabalhando com Dados #03
-- [ ] Trabalhando com Dados #04
-- [ ] Desafio Área da Circunferência
-- [ ] Desafio Área da Circunferência - Resposta
-- [ ] Desafio Troca de Valores
-- [ ] Desafio Troca de Valores - Resposta
+- [x] Bloco de Código
+- [x] Desafio Sentença e Bloco
+- [x] Desafio Sentença e Bloco - Resposta
+- [x] Trabalhando com Dados #01
+- [x] Trabalhando com Dados #02
+- [x] Trabalhando com Dados #03
+- [x] Trabalhando com Dados #04
+- [x] Desafio Área da Circunferência
+- [x] Desafio Área da Circunferência - Resposta
+- [x] Desafio Troca de Valores
+- [x] Desafio Troca de Valores - Resposta
+- [x] Desafio Troca de Valores - Resposta
+
+### Operadores
+
+- [x] Classificação dos Operadores
+- [x] Tipos de Operadores
+- [x] Operadores Aritméticos - Teoria
+- [x] Operadores Aritméticos - Prática
+- [x] Desafio Operadores Aritméticos
+- [x] Desafio Operadores Aritméticos - Resposta
+- [x] Operadores Relacionais - Teoria
+- [x] Operadores Relacionais - Prática #01
+- [x] Tipagem Fraca vs Tipagem Forte
+- [x] Operadores Relacionais - Prática #02
+- [x] Desafio Operadores Relacionais
+- [x] Desafio Operadores Relacionais - Resposta
+- [x] Operadores de Atribuição - Teoria
+- [x] Operadores de Atribuição - Prática
+- [x] Desafio Operadores de Atribuição
+- [x] Desafio Operadores de Atribuição - Resposta
+- [x] Operadores Lógicos - Teoria #01
+- [x] Operadores Lógicos - Teoria #02
+- [x] Operadores Lógicos - Teoria #03
+- [x] Operadores Lógicos - Teoria #04
+- [x] Operadores Lógicos - Teoria #05
+- [x] Operadores Lógicos - Teoria #06
+- [x] Operadores Lógicos - Prática #01
+- [x] Operadores Lógicos - Prática #02
+- [x] Desafio Operadores Lógicos
+- [x] Desafio Operadores Lógicos - Resposta
+- [x] Operadores Unários - Prática #01
+- [x] Operadores Unários - Prática #02
+- [x] Operadores Unários - Prática #03
+- [x] Operador Ternário - Teoria
+- [x] Operador Ternário - Prática #01
+- [x] Operador Ternário - Prática #02
+- [x] Desafio Operador Ternário
+- [x] Desafio Operador Ternário - Resposta
 
 ### :hammer: Tecnologias
-<ul>
+ <ul>
     <li>Javascript</li>
     <li>Visual Studio Code</li>
 </ul>
