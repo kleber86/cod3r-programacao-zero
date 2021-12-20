@@ -3,7 +3,7 @@ const produto = {
   preco: 1.999,
   desconto: .15,
   valorComDesconto: function() {
-    return preco * (1 - desconto)
+    return this.preco * (1 - this.desconto)
   }
 }
 
