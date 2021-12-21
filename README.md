@@ -92,6 +92,105 @@
 - [x] Desafio Operador Ternário
 - [x] Desafio Operador Ternário - Resposta
 
+### Estruturas de Controle
+
+- [x] Visão Geral das Estruturas de Controle #01
+- [x] Visão Geral das Estruturas de Controle #02
+- [x] If - Teoria
+- [x] If - Prática #01
+- [x] If - Prática #02
+- [x] If - Prática #03
+- [x] If - Prática #04 - Desafio
+- [x] If - Prática #04 - Resposta
+- [x] Desafio If
+- [x] Desafio If - Resposta
+- [x] If/Else - Teoria
+- [x] If/Else - Prática #01
+- [x] If/Else - Prática #02
+- [x] If/Else - Prática #03
+- [x] If/Else - Prática #04
+- [x] If/Else - Prática #05
+- [x] Desafio If/Else
+- [x] Desafio If/Else - Resposta
+- [x] Laços de Repetição - Teoria
+- [x] While - Prática #01
+- [x] While - Prática #02
+- [x] While - Prática #03
+- [x] While - Prática #04
+- [x] For - Prática #01
+- [x] For - Prática #02
+- [x] For - Prática #03
+- [x] Executar Código no Modo de Debug
+- [x] Extra: Template String
+- [x] For - Prática #04
+- [x] Desafio For
+- [x] Desafio For - Resposta
+- [x] Switch
+- [x] Desafio Switch
+- [x] Desafio Switch - Resposta
+- [x] Break Continue
+
+### Funções
+
+- [x] Exemplo SEM Função
+- [x] Exemplo COM Função #01
+- [x] Função vs Algoritmo
+- [x] Anatomia da Função
+- [x] Exemplo COM Função #02
+- [x] Desafio Função #01
+- [x] Desafio Função #01 - Resposta
+- [x] Extra: Entendendo Undefined
+- [x] Função e Undefined
+- [x] Função com Retorno #01
+- [x] Diferentes Variações
+- [x] Desafio Função #02
+- [x] Desafio Função #02 - Resposta
+- [x] Desafio Função #03
+- [x] Desafio Função #03 - Resposta
+- [x] Armazenando Funções em Variáveis #01
+- [x] Armazenando Funções em Variáveis #02
+- [x] Passar Função como Parâmetro #01
+- [x] Parâmetros de Função #01
+- [x] Parâmetros de Função #02
+- [x] Passar Função como Parâmetro #02
+- [x] Retornar Função #01
+- [x] Retornar Função #02
+- [x] Retornar Função #03
+
+### Arrays
+
+- [x] Array Teoria
+- [x] Básico sobre Array #01
+- [x] Básico sobre Array #02
+- [x] Básico sobre Array #03
+- [x] Usando For com Array #01
+- [x] Usando For com Array #02
+- [x] Desafio Array For
+- [x] Desafio Array For - Resposta
+- [x] Métodos do Array #01
+- [x] Métodos do Array #02
+- [x] Métodos do Array #03
+- [x] Conclusão Módulo
+
+### Objetos
+
+- [x] Teoria sobre Objeto #01
+- [x] Básico sobre Objeto #01
+- [x] Básico sobre Objeto #02 (Parte 1)
+- [x] Teoria sobre Objeto #02
+- [x] Básico sobre Objeto #02 (Parte 2)
+- [x] Básico sobre Objeto #03
+- [x] Básico sobre Objeto #04
+- [x] Básico sobre Objeto #05
+- [x] Desafio Objeto
+- [x] Desafio Objeto - Resposta
+- [x] Problema com a Forma Literal
+- [x] Função e Objeto #01
+- [x] Função e Objeto #02
+- [x] Função e Objeto #03
+- [x] Teoria sobre Objeto #03
+- [x] Classe e Objeto
+
 ### :hammer: Tecnologias
  <ul>
     <li>Javascript</li>
